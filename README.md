@@ -19,6 +19,12 @@ A bad clone of git whith almost no useful features
 - ❌ **Conflict Resolution**: Tools to help resolve merge conflicts.
 - ❌ **Hooks**: Automate tasks with pre-commit, post-commit, and other hooks.
 
+## Development
+
+### Dependencies
+
+This project uses [Cobra](https://github.com/spf13/cobra/tree/main) for the CLI framework. Cobra is a library for creating powerful modern CLI applications.
+
 ## Contributing
 
 Feel free to submit pull requests.
